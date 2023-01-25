@@ -4,10 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV</title> 
-    <style>
-        h1{background-color: aquamarine;}
-  </style>    
+      
 </head>
 <body>
     <img src="E:\00 gas\mis archivos\cv-carta\yo.jpg" alt="width 100" height="100" srcset="E:\00 gas\mis archivos\cv-carta\yo.jpg">
